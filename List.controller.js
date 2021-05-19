@@ -23,6 +23,9 @@ sap.ui.define([
 			
 			// Change 4 : creating an unrelated variable
 			var oTemp = ""; 
+			
+			// Change 5 : creating an unrelated variable from SAP Account
+			var oTempSAP = ""; 
 		}
 	});
 
